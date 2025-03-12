@@ -37,4 +37,7 @@ Sir, currently there is no much development going on and i can't see much carrie
 ### what is your salary exceptions?
 sir currently am getting 3lpa iam expecting around 4.5 to 5 lpa
 
+### what is an API?
+An API (Application Programming Interface) is a set of rules and protocols that allows different software applications to communicate with each other. It defines how requests and responses should be structured so that systems can exchange data
+
 ---
