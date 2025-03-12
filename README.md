@@ -49,18 +49,12 @@ APIs support different methods (also called HTTP methods) to interact with resou
 
 GET – Retrieves data from the server.
 
-Example: Fetching a list of courses in your LMS.
 POST – Sends new data to the server.
 
-Example: Adding a new course to the system.
 PUT – Updates an existing resource.
 
-Example: Editing course details.
 PATCH – Partially updates an existing resource.
 
-Example: Updating only the course title.
 DELETE – Removes a resource from the server.
-
-Example: Deleting a user account.
 
 ---
