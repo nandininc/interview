@@ -40,4 +40,27 @@ sir currently am getting 3lpa iam expecting around 4.5 to 5 lpa
 ### what is an API?
 An API (Application Programming Interface) is a set of rules and protocols that allows different software applications to communicate with each other. It defines how requests and responses should be structured so that systems can exchange data
 
+
+### Type of API's
+APIs can be RESTful (following REST architecture) or SOAP-based, and they can return data in formats like JSON or XML.
+
+### Different API methods
+APIs support different methods (also called HTTP methods) to interact with resources. Here are the common ones:
+
+GET – Retrieves data from the server.
+
+Example: Fetching a list of courses in your LMS.
+POST – Sends new data to the server.
+
+Example: Adding a new course to the system.
+PUT – Updates an existing resource.
+
+Example: Editing course details.
+PATCH – Partially updates an existing resource.
+
+Example: Updating only the course title.
+DELETE – Removes a resource from the server.
+
+Example: Deleting a user account.
+
 ---
