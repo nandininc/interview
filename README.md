@@ -102,4 +102,7 @@ Log Aggregation – Use ELK stack (Elasticsearch, Logstash, Kibana) for centrali
 
 Set Up Alerts – Detect performance bottlenecks early.
 
+### What challenges did you face while working with Spring Boot, and how did you overcome them?
+in the LMS project there was a difficulty in storing the json data in mysql database where we need to write json parsing logic to store and retrive the data so to overcome that we awitched to postgresql database
+
 
