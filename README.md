@@ -63,4 +63,19 @@ DELETE – Removes a resource from the server.
 PUT → Full update (Replaces existing resource).
 
 PATCH → Partial update (Updates only specified fields).
----
+
+### Frontend Optimization (React)
+Lazy Loading & Code Splitting – Load components only when needed using React.lazy() and React Suspense.
+Use React.memo & useCallback – Prevent unnecessary re-renders.
+Optimize State Management – Use lightweight state management (React Context API, Redux Toolkit).
+Reduce Bundle Size – Remove unused dependencies and minify assets.
+
+### Backend Optimization (Spring Boot)
+Enable Caching – Use Spring Cache with Redis to store frequently accessed data.
+Optimize Database Queries – Use indexed queries, batch processing, and pagination.
+Connection Pooling – Configure HikariCP for efficient database connection management.
+Optimize API Responses – Reduce payload size, enable Gzip compression, and use DTOs instead of entities.
+Asynchronous Processing – Use @Async for background tasks like email notifications and order processing.
+Implement Rate Limiting – Protect APIs with Spring Security & Bucket4j.
+
+
