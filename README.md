@@ -57,4 +57,8 @@ PATCH – Partially updates an existing resource.
 
 DELETE – Removes a resource from the server.
 
+
+### Difference between PUT and PATCH in APIs
+PUT → Full update (Replaces existing resource).
+PATCH → Partial update (Updates only specified fields).
 ---
