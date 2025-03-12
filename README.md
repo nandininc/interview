@@ -16,8 +16,8 @@ I've created a responsive personal portfolio showcasing my development projects 
 
 On the personal side, I'm from Hubli, Karnataka. I live with my widowed mother and two younger brothers. Currently, I stay in Koramangala 1st block.
 
-
-### Project base questions: expalain about your projects?
+## Project base questions:
+### expalain about your projects?
 1.hybridsystems
 HybridSystems is a comprehensive e-commerce platform I developed using React for the frontend and Java Spring Boot for the backend. The application features a responsive product catalog with advanced search and filtering capabilities, a secure user authentication system, and a shopping cart with real-time updates. The admin dashboard provides complete product management functionality, inventory tracking, sales analytics, and automated invoice generation.
 
