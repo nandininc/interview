@@ -86,4 +86,13 @@ Asynchronous Processing – Use @Async for background tasks like email notificat
 
 Implement Rate Limiting – Protect APIs with Spring Security & Bucket4j.
 
+###Infrastructure Optimization
+Deploy on a Scalable Cloud Platform – AWS, GCP, or Azure with auto-scaling enabled.
+
+Use Load Balancers – Distribute traffic efficiently.
+
+Containerization – Use Docker and Kubernetes for efficient deployment.
+
+CDN for Static Assets – Reduce server load and improve page load speed.
+
 
